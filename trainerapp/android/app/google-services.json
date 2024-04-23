@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "450152369434",
+    "project_id": "daiktuinternetas-a14fa",
+    "storage_bucket": "daiktuinternetas-a14fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450152369434:android:feba58088855e2f82cb0a3",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2jYe1vzLdrbIyen5ygjQLgQ-eqWVwfrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450152369434:android:52243f066107cba82cb0a3",
+        "android_client_info": {
+          "package_name": "com.example.trainerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2jYe1vzLdrbIyen5ygjQLgQ-eqWVwfrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450152369434:android:055a66a8f79afe952cb0a3",
+        "android_client_info": {
+          "package_name": "com.example.userapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2jYe1vzLdrbIyen5ygjQLgQ-eqWVwfrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
